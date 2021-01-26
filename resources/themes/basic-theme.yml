@@ -1,0 +1,5 @@
+extends: default
+heading:
+  font-color: '#da3131'
+thematic-break:
+  border-color: #323232
